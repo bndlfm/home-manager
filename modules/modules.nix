@@ -92,6 +92,7 @@ let
     ./programs/firefox.nix
     ./programs/fish.nix
     ./programs/foot.nix
+    ./programs/freetube.nix
     ./programs/fuzzel.nix
     ./programs/fzf.nix
     ./programs/gallery-dl.nix
@@ -102,6 +103,7 @@ let
     ./programs/git-credential-oauth.nix
     ./programs/git.nix
     ./programs/gitui.nix
+    ./programs/gnome-shell.nix
     ./programs/gnome-terminal.nix
     ./programs/go.nix
     ./programs/gpg.nix
@@ -186,6 +188,7 @@ let
     ./programs/pistol.nix
     ./programs/piston-cli.nix
     ./programs/pls.nix
+    ./programs/poetry.nix
     ./programs/powerline-go.nix
     ./programs/pqiv.nix
     ./programs/pubs.nix
@@ -260,8 +263,9 @@ let
     ./programs/zsh.nix
     ./programs/zsh/prezto.nix
     ./programs/zsh/zsh-abbr.nix
-    ./services/arrpc.nix
     ./services/activitywatch.nix
+    ./services/amberol.nix
+    ./services/arrpc.nix
     ./services/autorandr.nix
     ./services/avizo.nix
     ./services/barrier.nix
@@ -276,6 +280,7 @@ let
     ./services/clipman.nix
     ./services/clipmenu.nix
     ./services/comodoro.nix
+    ./services/conky.nix
     ./services/copyq.nix
     ./services/darkman.nix
     ./services/devilspie2.nix
@@ -298,6 +303,7 @@ let
     ./services/gromit-mpx.nix
     ./services/home-manager-auto-upgrade.nix
     ./services/hound.nix
+    ./services/hypridle.nix
     ./services/imapnotify.nix
     ./services/kanshi.nix
     ./services/kbfs.nix
@@ -335,6 +341,7 @@ let
     ./services/plex-mpv-shim.nix
     ./services/polybar.nix
     ./services/poweralertd.nix
+    ./services/psd.nix
     ./services/pueue.nix
     ./services/pulseeffects.nix
     ./services/random-background.nix
@@ -352,6 +359,7 @@ let
     ./services/stalonetray.nix
     ./services/status-notifier-watcher.nix
     ./services/swayidle.nix
+    ./services/swaync.nix
     ./services/swayosd.nix
     ./services/sxhkd.nix
     ./services/syncthing.nix

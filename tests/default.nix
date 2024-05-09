@@ -122,6 +122,7 @@ in import nmtSrc {
     ./modules/programs/pet
     ./modules/programs/pistol
     ./modules/programs/pls
+    ./modules/programs/poetry
     ./modules/programs/powerline-go
     ./modules/programs/pubs
     ./modules/programs/pyenv
@@ -189,8 +190,10 @@ in import nmtSrc {
     ./modules/programs/boxxy
     ./modules/programs/firefox
     ./modules/programs/foot
+    ./modules/programs/freetube
     ./modules/programs/fuzzel
     ./modules/programs/getmail
+    ./modules/programs/gnome-shell
     ./modules/programs/gnome-terminal
     ./modules/programs/hexchat
     ./modules/programs/i3blocks
@@ -223,6 +226,7 @@ in import nmtSrc {
     ./modules/services/cliphist
     ./modules/services/clipman
     ./modules/services/comodoro
+    ./modules/services/conky
     ./modules/services/darkman
     ./modules/services/devilspie2
     ./modules/services/dropbox
@@ -236,6 +240,7 @@ in import nmtSrc {
     ./modules/services/gpg-agent
     ./modules/services/gromit-mpx
     ./modules/services/home-manager-auto-upgrade
+    ./modules/services/hypridle
     ./modules/services/imapnotify
     ./modules/services/kanshi
     ./modules/services/lieer
@@ -259,6 +264,7 @@ in import nmtSrc {
     ./modules/services/screen-locker
     ./modules/services/signaturepdf
     ./modules/services/swayidle
+    ./modules/services/swaync
     ./modules/services/swayosd
     ./modules/services/sxhkd
     ./modules/services/syncthing/linux
